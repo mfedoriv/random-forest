@@ -1,2 +1,2 @@
 # random-forest
-Implementation of Random Forest classifier for image classification
+Implementation of Random Forest classifier
